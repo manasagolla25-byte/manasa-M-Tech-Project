@@ -1,0 +1,59 @@
+﻿,id,Time,Age,Gender,BMI,Glucose,Prediction,Risk,Suggestion,Diet
+0,1,2026-04-13 07:04:30.726152,61,Female,35.64,110,No Diabetes,45,Healthy lifestyle recommended.,Balanced diet recommended.
+1,2,2026-04-13 07:10:09.006067,72,Female,32.27,120,No Diabetes,80,Healthy lifestyle recommended.,Balanced diet recommended.
+2,3,2026-04-13 07:13:07.340958,72,Female,32.27,110,No Diabetes,55,Healthy lifestyle recommended.,Balanced diet recommended.
+3,4,2026-04-13 07:16:07.363318,59,Female,41.55,180,Type 2,85,"
+• Reduce sugar and refined carbohydrates
+• Daily walking 30 minutes
+• Monitor blood glucose weekly
+• Maintain BMI below 25
+","Eat more vegetables, reduce carbohydrates."
+4,5,2026-04-13 07:17:35.708744,59,Female,41.55,180,Type 2,85,"
+• Reduce sugar and refined carbohydrates
+• Daily walking 30 minutes
+• Monitor blood glucose weekly
+• Maintain BMI below 25
+","Eat more vegetables, reduce carbohydrates."
+5,6,2026-04-13 07:34:32.067346,67,Female,30.83,150,Type 2,85,"
+• Reduce sugar and refined carbohydrates
+• Daily walking 30 minutes
+• Monitor blood glucose weekly
+• Maintain BMI below 25
+","Eat more vegetables, reduce carbohydrates."
+6,7,2026-04-13 07:35:30.767410,49,Female,47.65,190,Type 2,95,"
+• Reduce sugar and refined carbohydrates
+• Daily walking 30 minutes
+• Monitor blood glucose weekly
+• Maintain BMI below 25
+","Avoid sweets, white rice, sugary drinks."
+7,8,2026-04-13 07:36:26.241099,51,Female,30.3,220,Type 2,85,"
+• Reduce sugar and refined carbohydrates
+• Daily walking 30 minutes
+• Monitor blood glucose weekly
+• Maintain BMI below 25
+","Avoid sweets, white rice, sugary drinks."
+8,9,2026-04-13 07:37:30.878835,62,Female,40.16,120,No Diabetes,70,Healthy lifestyle recommended.,Balanced diet recommended.
+9,10,2026-04-13 07:39:13.749412,74,Male,30.69,130,No Diabetes,80,Healthy lifestyle recommended.,Balanced diet recommended.
+10,11,2026-04-13 07:40:53.001772,32,Male,21.22,228,Type 1,40,"
+• Insulin therapy required
+• Regular blood sugar monitoring
+• Consult endocrinologist immediately
+","Avoid sweets, white rice, sugary drinks."
+11,12,2026-04-13 07:42:22.286543,58,Male,26.57,108,No Diabetes,45,Healthy lifestyle recommended.,Balanced diet recommended.
+12,13,2026-04-13 07:44:17.799060,20,Male,19.98,213,Type 1,50,"
+• Insulin therapy required
+• Regular blood sugar monitoring
+• Consult endocrinologist immediately
+","Avoid sweets, white rice, sugary drinks."
+13,14,2026-04-13 07:45:18.812256,24,Female,20.54,211,Gestational,40,⚠️ Very high glucose. Immediate medical consultation required.,"Avoid sweets, white rice, sugary drinks."
+14,15,2026-04-13 07:51:20.194968,58,Male,26.3,108,No Diabetes,45,Healthy lifestyle recommended.,Balanced diet recommended.
+15,16,2026-04-13 07:52:27.311665,30,Female,29.03,86,No Diabetes,15,Healthy lifestyle recommended.,Balanced diet recommended.
+16,17,2026-04-13 07:53:27.520186,62,Female,33.66,112,No Diabetes,70,Healthy lifestyle recommended.,Balanced diet recommended.
+17,18,2026-04-13 07:54:45.607167,65,Female,22.6,87,No Diabetes,20,Healthy lifestyle recommended.,Balanced diet recommended.
+18,19,2026-04-13 07:55:59.152405,74,Male,32.27,225,Type 2,85,"
+• Reduce sugar and refined carbohydrates
+• Daily walking 30 minutes
+• Monitor blood glucose weekly
+• Maintain BMI below 25
+","Avoid sweets, white rice, sugary drinks."
+19,20,2026-04-13 07:57:52.564286,32,Male,19.03,90,No Diabetes,10,Healthy lifestyle recommended.,Balanced diet recommended.
