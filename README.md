@@ -10,6 +10,12 @@ Hello, I'm Manasa
 **Motivation**: As we know that, there is no age limit for getting the diabetes. Present, most of the people of getting diabetes has been increased and there are facing more problems in understanding the raw data. So, to overcome this i have developed the chatbot which act as the assistant to the patient.
 
 
+https://github.com/user-attachments/assets/b74f2392-91ad-4721-bcb3-7f5d97e7c9b1
+
+
+https://github.com/user-attachments/assets/274527c1-41d2-4922-918c-5d1313900787
+
+
 https://github.com/user-attachments/assets/9c6edf6a-f6f3-41a3-8797-f2915e1caa00
 
 https://github.com/user-attachments/assets/a2f42475-1ec0-4733-8ce0-b2b3b10d1046
