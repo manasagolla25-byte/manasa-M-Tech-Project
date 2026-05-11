@@ -12,9 +12,7 @@ Hello, I'm Manasa
 
 https://github.com/user-attachments/assets/b74f2392-91ad-4721-bcb3-7f5d97e7c9b1
 
-
-https://github.com/user-attachments/assets/274527c1-41d2-4922-918c-5d1313900787
-
+https://github.com/user-attachments/assets/f4f85e7c-a067-4371-8c21-1111f8519c12
 
 https://github.com/user-attachments/assets/9c6edf6a-f6f3-41a3-8797-f2915e1caa00
 
