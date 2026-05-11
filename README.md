@@ -1,4 +1,4 @@
-# manasa (M-Tech Project)
+# Manasa (M-Tech Project)
 Developing the RAG based Chatbot for diabetics patients in understanding the real time data.
 
 Hello, I'm Manasa
